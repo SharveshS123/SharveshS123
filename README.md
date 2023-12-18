@@ -5,11 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=SharveshS123r&label=Profile%20views&color=0e75b6&style=flat" alt="SharveshS123" />
 </p>
 
-- *<h1>👨🏻‍🎓  Computer Science and Engineering Graduate</h1>*
+- *<h1>👨🏻‍🎓  Electronics  and Communication Engineering Graduate</h1>*
+ 
   
-- *<h2>🕸  Fullstack Web Developer</h2>*
-  
-- *<h3>📧  Mail me @ smkamatchi20@gmail.com</h3>*
+- *<h3>📧  Mail me sharveshs007@gmail.com</h3>*
 
 <!-----CONTRUBUTES--->
 
